@@ -1,6 +1,6 @@
 {
-    "name": "grocerywithadminpanel",
-    "short_name": "grocerywithadminpanel",
+    "name": "grocycart",
+    "short_name": "grocycart",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

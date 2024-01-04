@@ -1,4 +1,4 @@
-package com.example.grocerywithadminpanel
+package com.example.grocycart
 
 import io.flutter.embedding.android.FlutterActivity
 

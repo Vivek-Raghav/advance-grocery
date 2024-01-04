@@ -1,4 +1,4 @@
-# grocerywithadminpanel
+# grocycart
 
 A new Flutter project.
 
